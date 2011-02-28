@@ -1,6 +1,6 @@
 This tiny tool lists the absolute URLs of the available fonts.  It requires at
 least OS X 10.6.  The output is unsorted.  Each line contains exactly one URL
-pointing to a font file.  The URLs are encoded according to RFC 1808 and of the
+pointing to a font file.  The URLs are encoded according to RFC 1738 and of the
 form
 
     file://PATH#postscript-name=PSNAME
