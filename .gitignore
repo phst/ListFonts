@@ -1,0 +1,5 @@
+*~
+build/
+*.pch
+*.mode1v3
+*.pbxuser
